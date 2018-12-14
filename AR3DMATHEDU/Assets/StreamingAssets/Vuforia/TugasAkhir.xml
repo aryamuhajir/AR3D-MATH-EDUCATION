@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Kayukayuborneoddkaso" size="5.000000 3.196203" />
+    <ImageTarget name="balokas" size="5.000000 2.170088" />
+    <ImageTarget name="p2_1024x1024" size="5.000000 5.000000" />
+    <ImageTarget name="balokkkkkk" size="5.000000 5.000000" />
+    <ImageTarget name="kubik" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
