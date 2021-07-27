@@ -10,7 +10,7 @@ Tutorial
 
 Arahkan kamera HP ke salah satu gambar berikut
 <p float="left">
- <img src="KUBUS.jpek" width="400">
+ <img src="KUBUS.jpeg" width="400">
  <img src="BALOK.jpg" width="400">
-   <img src="LIMAS.png" width="400">
+ <img src="LIMAS.png" width="400">
  </p>
